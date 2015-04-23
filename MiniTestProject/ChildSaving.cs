@@ -8,5 +8,6 @@ namespace MiniTestProject
 {
     class ChildSaving
     {
+        private string name = "ole";
     }
 }
