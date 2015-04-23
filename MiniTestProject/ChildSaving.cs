@@ -8,6 +8,6 @@ namespace MiniTestProject
 {
     class ChildSaving
     {
-        sfdsf
+        private string name = "ole";
     }
 }
